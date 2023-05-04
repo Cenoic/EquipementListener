@@ -1,3 +1,0 @@
-# Delay in Ticks
-# Increment by +5 if health doesn't update properly when armor is changed.
-delay: 10
