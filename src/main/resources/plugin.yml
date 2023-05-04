@@ -3,6 +3,5 @@ version: '${project.version}'
 api-version: 1.19
 main: com.senrua.equipmentlistener.EquipmentListener
 author: Rainie
-description: Check and deal damage based on HP and max HP
-
+description: Patches Aurelium Skills & MMOItems confliction Health Bug
 commands:
